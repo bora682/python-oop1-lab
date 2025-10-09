@@ -144,3 +144,16 @@ Before you submit your solution, you need to save your progress with git.
   * Click on + Create Submission. Connect your repository for this lab.
   * For additional information on submitting assignments in CodeGrade: [Getting Started in Canvas](https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas)
 
+---
+
+## Final Notes
+
+
+All 7 tests passed successfully with `pytest`.
+
+### Summary
+
+- Created two Python classes: `Book` and `Coffee`
+- Implemented proper  validation and methods
+- Verified functionality through all passing tests
+- Submission ready for CodeGrade
